@@ -1,9 +1,9 @@
 # pythonEgitim
 
-Bu proje BTK Akademinin 5 günlük süren "Python ile Yapay Zeka Gelişirme" adı alında kursun,
+Bu proje BTK Akademinin 5 günlük süren _"Python ile Yapay Zeka Gelişirme"_ adı alında kursun,
 eğitim içeriği ve örnek uygulumalarını içerir.
 
-* Python Giriş
-* Numpy Kütüphanesi
-* Pandas Kütüphanesi
+* **Python Giriş**
+* **Numpy Kütüphanesi**
+* **Pandas Kütüphanesi**
   
